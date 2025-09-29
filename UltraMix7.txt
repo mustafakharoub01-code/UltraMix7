@@ -1,0 +1,5 @@
+UltraMix Lite — iPad APK Build (Super Short Guide)
+1) ارفع هذا المجلد إلى GitHub من iPad (repo Private).
+2) افتح codemagic.io > سجّل بحساب GitHub > Add application > اختر الريبو.
+3) Codemagic سيقرأ codemagic.yaml ويبدأ البناء.
+4) بعد النجاح، نزّل app-release.apk من صفحة Artifacts.
